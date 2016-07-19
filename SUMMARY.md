@@ -8,3 +8,6 @@
     * [Programming Intel Robots Using ASU VIPLE](chapter_4.md)
     * [Controlling EV3 Robots Using ASU VIPLE](chapter_5.md)
 * [视频教程](video.md)
+    * [VIPLE编程实践]()
+    * [物联网和机器人导论可视化编程概述1]()
+    * 
