@@ -1,24 +1,3 @@
 # 视频参考内容
-## VIPLE编程实践
 
-<iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=e0314qbthnh&tiny=0&auto=0" allowfullscreen></iframe>
-
-## 物联网和机器人导论可视化编程概述1
-
-<iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=r0314w5odeh&tiny=0&auto=0" allowfullscreen></iframe>
-
-## 物联网和机器人导论可视化编程概述2
-
-<iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=o0314pisvya&tiny=0&auto=0" allowfullscreen></iframe>
-
-## 物联网和机器人导论可视化编程概述3
-
-<iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=b03149r8jcw&tiny=0&auto=0" allowfullscreen></iframe>
-
-## 物联网和机器人导论可视化编程概述4
-
-<iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=h0314rxumy5&tiny=0&auto=0" allowfullscreen></iframe>
-
-## 物联网和机器人导论可视化编程概述5
-
-<iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=s03140wcb6t&tiny=0&auto=0" allowfullscreen></iframe>
+视频参考内容拍摄于陈以农教授在2016 Google 师资培育与课程建设第二期 “嵌入式与系统软件开发”研讨班，受限于拍摄条件，声音、图像等信息不能完全再现当时研讨班教学环境，还请谅解
